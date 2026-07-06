@@ -6,8 +6,9 @@ title:   'OverCat Studios'
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
- 
-url:  'http://johnlaudun.github.io/overcat'
+
+path: 'https://johnlaudun.github.io/overcat' 
+url:  'https://johnlaudun.github.io/overcat'
 
 markdown: kramdown
 
