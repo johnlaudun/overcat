@@ -1,12 +1,7 @@
-# Overcat
-
-| Title                               | Status    | Published URL |
-| ----------------------------------- | --------- | ------------- |
-| **[Kriegspieling](#kriegspieling)** | Published |               |
-|                                     |           |               |
-|                                     |           |               |
-
-# Kriegspieling
+---
+layout: post
+title: "Kriegspieling"
+---
 
 One of the outcomes of the success of the narrative games course was my own renewed interest in all kinds of games. In particular, I still have a number of the board games from when I was a kid. The ones I played the most were from Avalon Hill, but I was also quite fond of the games by Yaquinto. (And while AH features in gamer nostalgia, I have yet to see anything about Yaquinto. No love for *Marine 2002: A Game of the First Lunar War*?)
 

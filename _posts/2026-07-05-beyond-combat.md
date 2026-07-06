@@ -1,4 +1,8 @@
-# Moving beyond Combat
+---
+layout: post
+title: "Moving beyond Combat"
+---
+
 After I had an initial draft of what was, essentially, a sci-fi re-skin of _Four against Darkness_, I gave it a playthrough and … I was bored. And, to be honest, I was also a bit put off by every interaction really resolving to combat. This science fiction I had created amounted to "meet new creatures and kill them." 
 
 What I wanted was a game that was more about exploration and discovery. Also, I had this character, RSQb-103, who I liked and who I wanted to allow to grow. As a long-time advocate for the right to repair, I liked the idea of Qb, and thus the player, being on a mission to hack his own _consciousness operating system_. 

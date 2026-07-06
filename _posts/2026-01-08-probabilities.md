@@ -1,4 +1,7 @@
-# Probabilities
+---
+layout: post
+title: "Probabilities"
+---
 
 A fair portion of simulating reality is based in probabilities both because users need to have choices—there’s no need for probabilities in a novel because there’s only one path—and because games need to have variability if they are going to offer meaningful opportunities for replay. 
 
