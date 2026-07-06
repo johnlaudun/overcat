@@ -2,13 +2,14 @@
 # site.title, site.url, site.author.name
 
 title:   'OverCat Studios'
+author:  'John Laudun'
 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
 
-path: 'https://johnlaudun.github.io/overcat' 
-url:  'https://johnlaudun.github.io/overcat'
+path: 'https://overcat.net' 
+url:  'https://overcat.net'
 
 markdown: kramdown
 
